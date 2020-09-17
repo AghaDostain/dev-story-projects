@@ -27,7 +27,7 @@ _Responsibilities_ :
   
 __Roster Apps__ @ [ARCOS](https://www.arcos-inc.com/rosterapps/)
 <br><br>
-_Stack_ : ASP.NET WEB FORMS, ADO.NET, WCF, SQL Server 2012, Layered Architecture, jQuery, Bootstrap, QCI Framework, GIT, JIRA.
+_Stack_ : ASP.NET WEB FORMS, ADO.NET, WCF, MSSQL, Layered Architecture, jQuery, Bootstrap, QCI Framework, GIT, JIRA.
 <br>
 _Role_ : Full Stack Software Engineer
 <br>
@@ -43,7 +43,7 @@ _Responsibilities_ :
 
 __CVIC Financial Services__ @ [CIVIC](https://www.civicfs.com/)
 <br><br>
-_Stack_ : ASP.NET WEB API, ASP.NET MVC, Entity Framework, Swagger, 0Auth 1, SQL Server 2012, Repository Pattern, Service Pattern, DI Pattern, Automapper, Azure Queue, Azure Storage, Azure Web Apps, Azure Functions, Angular JS, Kendo UI, Bootstrap, DocuSign, Bootstrap, MOQ, ES
+_Stack_ : ASP.NET WEB API, ASP.NET MVC, Entity Framework, Identity, Swagger, JWT, MSSQL, Repository Pattern, Service Pattern, DI Pattern, Automapper, Azure Queue, Azure Storage, Azure Web Apps, Azure Functions, Angular JS, Kendo UI, Bootstrap, DocuSign, Bootstrap, MOQ, ES
 2015, TFS.
 <br>
 _Role_ : Full Stack Software Engineer
@@ -60,7 +60,7 @@ _Responsibilities_ :
 
 __My Locker__ @ [KIM](https://kimsp.co.uk/)
 <br><br>
-_Stack_ : ASP.NET WEB API CORE, Entity Framework CORE, Swagger, JWT, SQL Server 2012, Repository Pattern, Service Pattern, DI Pattern, Automapper, MOQ, Azure Web Apps, Azure Storage, Azure Queue, Azure Functions, GIT, Trello.
+_Stack_ : ASP.NET WEB API CORE, Entity Framework CORE, Identity, Swagger, JWT, MSSQL, Repository Pattern, Service Pattern, DI Pattern, Automapper, MOQ, Azure Web Apps, Azure Storage, Azure Queue, Azure Functions, GIT, Trello.
 <br>
 _Role_ : API and DB Development
 <br>
@@ -74,7 +74,7 @@ _Responsibilities_ :
 
 __Advanced Air Jet Portal__ @ [Jet Center](https://jetcenterla.com/)
 <br><br>
-_Stack_ : ASP.NET WEB API, ASP.NET MVC, Entity Framework, Swagger, 0Auth 1, SQL Server 2012, Repository Pattern, Service Pattern, DI Pattern, Automapper, MOQ, Azure Storage, Azure Web Apps, Azure Queue, Azure Functions, Angular JS, Kendo UI, ES 2015, Bootstrap, TFS.
+_Stack_ : ASP.NET WEB API, ASP.NET MVC, Entity Framework, Identity, Swagger, JWT, MSSQL, Repository Pattern, Service Pattern, DI Pattern, Automapper, MOQ, Azure Storage, Azure Web Apps, Azure Queue, Azure Functions, Angular JS, Kendo UI, ES 2015, Bootstrap, TFS.
 <br>
 _Role_ : Full Stack Software Engineer
 <br>
