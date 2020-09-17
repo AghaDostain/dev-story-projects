@@ -12,7 +12,7 @@ _Stack_ : ASP.NET WEB API, ASP.NET WEB FORMS, EF, ADO.NET, MSSQL, Repository/Ser
 <br>
 _Role_ : Senior Software Engineer
 <br>
-_Description_ : Quintessa Marketing delivers highly qualified leads for lawyers and specializes in giving personal injury law firms a competitive edge in advertising. Quintessa Marketing helps those who seek legal assistance find you, and help you turn them into clients. 
+_Description_ : Quintessa Marketing delivers highly qualified leads for lawyers and specializes in giving personal injury law firms a competitive edge in advertising.
 <br>
 _Responsibilities_ :
 
