@@ -4,7 +4,7 @@ _Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 [Mail](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
 <br>
 
-## Technical Projects
+## Professional Technical Projects
 ---
 <br>
 
@@ -84,6 +84,54 @@ _Responsibilities_ :
 
   + Server-Side and Client-Side development.
   + DB development and deployments.
+<br><br>
+
+__UICM__ @ [IQVIS](https://www.iqvis.com/)
+<br><br>
+_Stack_ : ODATA WEB API, ASP.NET MVC, Entity Framework, LINQ, ELMAH, MSSQL, jQuery, jQuery UI, Bootstrap, ADO.NET, GIT.
+<br>
+_Role_ : Software Engineer
+<br>
+_Description_ : UICM is a business and employment-oriented social networking service.
+<br>
+_Responsibilities_ : 
+
+  + Server-Side and Client-Side development.
+  + DB development and deployments.
+<br><br>
+
+
+__APPNA__ @ [APPNA](https://appna.org/)
+<br><br>
+_Stack_ : ODATA WEB Form, ADO.NET, jQuery, jQuery UI, Bootstrap, SVN.
+<br>
+_Role_ : Associate Software Engineer
+<br>
+_Description_ : The Association of Physicians of Pakistani Descent of North America (APPNA) is an American physician non-profitable organization headquartered in Westmont, Illinois.
+<br>
+_Responsibilities_ : 
+
+  + Server-Side and Client-Side development.
+  + DB development.
+<br><br>
+
+
+## POC Projects
+---
+<br>
+
+__Blogging Application__ @ [IQVIS](https://www.iqvis.com/)
+<br><br>
+_Stack_ : NodeJS, Express, MongoDB, Jasmine.
+<br>
+_Role_ : Associate Software Engineer
+<br>
+_Description_ : Mini Project that was developed because of Node Training Session. It was a simple API where the user can upload Blog with some text and image. Blogs can be read, updated and deleted as well.
+<br>
+_Responsibilities_ : 
+
+  + API Development.
+  + API Testing.
 <br><br>
 
 
