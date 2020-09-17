@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Muhammad Iqbal
+_Software Engineer based in Lahore, Pakistan 🇵🇰_ <br>
 
-You can use the [editor on GitHub](https://github.com/AghaDostain/dev-story-projects/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[Mail](mailto:agha.muhammad.iqbal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/muhammadiqbaldotnet) / [GitHub](https://github.com/aghadostain/) / [Stackoverflow](https://stackoverflow.com/users/5985558/jbs) / [Twitter](https://twitter.com/agha_dostain/) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AghaDostain/dev-story-projects/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Technical Projects
+---
+<br><br>
+__Accident Intake Forms__ @ [Quintessa Marketing](http://quintessamarketing.com)
+<br><br>
+  _Stack_ : ASP.NET WEB API, ASP.NET WEB FORMS, EF, ADO.NET, MSSQL, Repository/Service Pattern, jQuery, Bootstrap, GIT, JIRA.
+  <br>
+  _Role_ : Senior Software Engineer
+  <br>
+  _Description_ : Quintessa Marketing delivers highly qualified leads for lawyers and specializes in giving personal injury law firms a competitive edge in advertising. Quintessa Marketing helps those who seek legal assistance find you, and help you turn them into clients. 
+  <br>
+  _Responsibilities_ : 
+    - Server-Side and Client-Side development.
+    - DB development and deployments.
+    - Code review for pull requests.
+    - Manage Git strategies.
+    - Participated in requirement elicitation and demoing new features.
+  <br> <br>
+  
+  
+  
+  
+<script type="text/javascript">window.onload = function(){document.getElementsByTagName("footer")[0].remove();document.getElementsByClassName("view")[0].remove();}</script>
